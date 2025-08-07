@@ -1,8 +1,0 @@
-{
-  "name": "namaz-api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "mongoose": "^7.5.0"
-  }
-}
